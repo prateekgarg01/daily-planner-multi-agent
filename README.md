@@ -1,4 +1,4 @@
-# daily-planner-multi-agent
+# Daily Planner AI App - Streamlit & Ollama Integration
 
 # Overview
 This is a simple daily planner application built with Python's Streamlit framework, integrated with Ollama's AI model to generate personalized daily schedules. The app uses an interactive user interface to collect sleep and work hours, and then generates a balanced daily plan that includes time for sleep, work, meals, workouts, and relaxation.
